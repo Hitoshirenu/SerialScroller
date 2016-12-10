@@ -55,5 +55,10 @@
 </div><!-- .site -->
 
 <?php wp_footer(); ?>
+<div id="footer">
+<h1>Red Neuron</h1>
+</div>
+</div>
 </body>
+
 </html>
